@@ -1,0 +1,15 @@
+C:\Temp\SrcTemp\EventTestTaBort\EventTestTaBort\bin\Debug\net6.0\EventTestTaBort.exe
+C:\Temp\SrcTemp\EventTestTaBort\EventTestTaBort\bin\Debug\net6.0\EventTestTaBort.deps.json
+C:\Temp\SrcTemp\EventTestTaBort\EventTestTaBort\bin\Debug\net6.0\EventTestTaBort.runtimeconfig.json
+C:\Temp\SrcTemp\EventTestTaBort\EventTestTaBort\bin\Debug\net6.0\EventTestTaBort.dll
+C:\Temp\SrcTemp\EventTestTaBort\EventTestTaBort\bin\Debug\net6.0\ref\EventTestTaBort.dll
+C:\Temp\SrcTemp\EventTestTaBort\EventTestTaBort\bin\Debug\net6.0\EventTestTaBort.pdb
+C:\Temp\SrcTemp\EventTestTaBort\EventTestTaBort\obj\Debug\net6.0\EventTestTaBort.csproj.AssemblyReference.cache
+C:\Temp\SrcTemp\EventTestTaBort\EventTestTaBort\obj\Debug\net6.0\EventTestTaBort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\SrcTemp\EventTestTaBort\EventTestTaBort\obj\Debug\net6.0\EventTestTaBort.AssemblyInfoInputs.cache
+C:\Temp\SrcTemp\EventTestTaBort\EventTestTaBort\obj\Debug\net6.0\EventTestTaBort.AssemblyInfo.cs
+C:\Temp\SrcTemp\EventTestTaBort\EventTestTaBort\obj\Debug\net6.0\EventTestTaBort.csproj.CoreCompileInputs.cache
+C:\Temp\SrcTemp\EventTestTaBort\EventTestTaBort\obj\Debug\net6.0\EventTestTaBort.dll
+C:\Temp\SrcTemp\EventTestTaBort\EventTestTaBort\obj\Debug\net6.0\ref\EventTestTaBort.dll
+C:\Temp\SrcTemp\EventTestTaBort\EventTestTaBort\obj\Debug\net6.0\EventTestTaBort.pdb
+C:\Temp\SrcTemp\EventTestTaBort\EventTestTaBort\obj\Debug\net6.0\EventTestTaBort.genruntimeconfig.cache
